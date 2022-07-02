@@ -1,0 +1,19 @@
+div.container {
+    text-align: center;
+  }
+  
+  ol.myoL {
+    display: inline-block;
+    text-align: center;
+  }
+
+  div.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  div.text-center {
+    text-align: center;
+  }
